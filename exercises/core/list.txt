@@ -1,0 +1,31 @@
+110 - 
+115 - 
+120 - 
+130 - if even, odd
+135 - ifdef, ifndef
+137 - ifdef, ifndef radius, circumference
+140 - if statements based on a number's factors
+141 - math formula 
+150 - sum elements in array 
+151 - array min, max
+170 - strings, strcpy, strncpy, dennis the menace 
+180 - read file and print lines that don't have # or empty lines
+182 - rumpelstiltskin
+184 - getopt 
+190 - push/pop
+191 - qsort array
+220 - dictionary password attack
+240 - struct node head
+241 - struct packet
+
+PRACTICE TEST
+1 - typo
+2 - sum the two-dimensional array row if key is found
+3 - struct, create pointer, assign the values
+4 - fgets, take input and put it to stdin and then again to stderr
+5 - set bits
+
+Additional Questions
+1 - swap
+2 - min, max
+3 - getcut
